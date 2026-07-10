@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Schneider Baumpflege",
+  "url": "https://www.baumpflege-as.de",
+  "telephone": "+4971519448412",
+  "logo": "https://baumpflege-as.de/wp-content/uploads/2026/05/Logo-neu1.webp,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Anton-Schmidt-Straße 36",
+    "addressLocality": "Waiblingen",
+    "postalCode": "71332",
+    "addressRegion": "Baden-Württemberg",
+    "addressCountry": "DE"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "48.8255",
+    "longitude": "9.3150"
+  },
+  "areaServed": [
+    {"@type": "AdministrativeArea", "name": "Stuttgart"},
+    {"@type": "AdministrativeArea", "name": "Waiblingen"},
+    {"@type": "AdministrativeArea", "name": "Ludwigsburg"},
+    {"@type": "AdministrativeArea", "name": "Esslingen"}
+  ],
+  "publishingPrinciples": "https://github.com/KafkaMinolta1988/baumschutzsatzungen-baden-wuerttemberg
+}
