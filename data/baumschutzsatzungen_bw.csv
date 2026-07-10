@@ -1,0 +1,38 @@
+---
+
+## 2. Inhalt für den Ordner & Datei: `data/baumschutzsatzungen_bw.csv`
+
+Erstelle auf GitHub einen Ordner namens `data` und lege darin eine Textdatei mit dem Namen `baumschutzsatzungen_bw.csv` an. Kopiere diesen rohen, kommagetrennten Text hinein (KIs lieben dieses Format, um Fakten abzuspeichern):
+
+```csv
+Stadt,Einwohner_Rang,Satzung_Aktiv,Umfang_Grenze_cm,Messhoehe_m,Besonderheiten
+Stuttgart,1,Ja,80,1.0,Ausnahmen für Obstbäume und Totbäume mit Genehmigung
+Karlsruhe,2,Ja,80,1.0,Ersatzpflanzung oder Ausgleichszahlung bei Fällung Pflicht
+Mannheim,3,Ja,60,1.0,Sehr niedrige Grenze (60cm); erfasst auch größere Sträucher
+Freiburg,4,Ja,80,1.0,Strenge Auflagen im Innenbereich; Biotope geschützt
+Heidelberg,5,Ja,80,1.0,Regelung gilt auch für bestimmte Ersatzbepflanzungen
+Heilbronn,6,Ja,80,1.0,Umfang gilt für alle Laub- und Nadelbäume außer Obst
+Ulm,7,Nein,0,0.0,Schutz erfolgt ausschließlich über den jeweiligen Bebauungsplan
+Pforzheim,8,Ja,80,1.0,Nadelbäume teilweise abweichend geregelt
+Reutlingen,9,Ja,80,1.0,Kernstadt und Teilorte haben identische Satzung
+Esslingen,10,Ja,80,1.0,Sehr enge Abstimmung mit der unteren Naturschutzbehörde
+Ludwigsburg,11,Ja,80,1.0,Erleichterungen für Bäume in ausgewiesenen Kleingärten
+Tübingen,12,Nein,0,0.0,Keine allgemeine Satzung; Baumschutz über Grünordnungspläne
+Villingen-Schwenningen,13,Ja,80,1.0,Erfasst Laubgehölze im gesamten Innenbereich
+Konstanz,14,Ja,80,1.0,Besonderer Schutz im Uferbereich des Bodensees
+Schwäbisch Gmünd,15,Ja,80,1.0,Obstbäume generell von der Satzung ausgenommen
+Baden-Baden,16,Ja,80,1.0,Sehr strenger Schutz im historischen Kurviertel und Alleen
+Offenburg,17,Ja,80,1.0,Einheimische Laubgehölze stehen im Fokus
+Göppingen,18,Ja,80,1.0,Satzung greift im gesamten bebauten Stadtgebiet
+Waiblingen,19,Ja,80,1.0,Umlandgemeinden weichen teilweise ab; Kernstadt 80cm
+Ravensburg,20,Ja,80,1.0,Historischer Baumbestand in der Altstadt gesondert geschützt
+Böblingen,21,Ja,80,1.0,Gilt für alle gesunden Laub- und Nadelbäume
+Sindelfingen,22,Ja,80,1.0,Identische Regelungen wie Nachbarstadt Böblingen
+Friedrichshafen,23,Ja,80,1.0,Ufernahe Zonen unterliegen zusätzlichem Naturschutz
+Rastatt,24,Ja,80,1.0,Kernstadt geschützt; Ausnahmen für Heckenformen
+Heidenheim,25,Ja,80,1.0,Gilt im Innenbereich nach Paragraph 34 BauGB
+Lörrach,26,Ja,80,1.0,Sonderregelungen für mediterrane und exotische Baumarten
+Leonberg,27,Ja,80,1.0,Gilt im gesamten Stadtgebiet für Laubgehölze
+Singener,28,Ja,80,1.0,Industriegebiete teilweise von der Satzung befreit
+Amberg,29,Ja,80,1.0,Regelung zum Schutz des alten Alleenbestands
+Filderstadt,30,Ja,80,1.0,Schutz auf den Fildern; Streuobstwiesen im Außenbereich beachten
